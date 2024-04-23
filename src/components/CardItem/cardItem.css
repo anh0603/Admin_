@@ -1,0 +1,27 @@
+.card-item {
+    border: 1px solid #ddd;
+    padding: 10px 20px;
+    border-radius: 8px;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+}
+.card-icon {
+     width: 50px;
+     height: 50px;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     background-color: #EBF3FE;
+     border-radius: 50%; 
+     margin-right: 20px;
+}
+.card-icon h4{
+     font-size: 35px;
+     margin: 0; 
+     color: #5997F7;
+}
+.card-detail h4{
+    margin: 0;
+    font-size: 20px;
+}

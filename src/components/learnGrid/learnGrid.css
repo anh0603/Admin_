@@ -1,0 +1,13 @@
+.box{
+    background-color: orange;
+}
+.slider-item{
+    margin-top: 20px;
+    text-align: center;
+    font-size: 30px;
+}
+.slider-item img{
+    width: 100%;
+    aspect-ratio: 4/1;
+    object-fit: cover;
+}

@@ -1,0 +1,250 @@
+{
+  "book-room": [
+    {
+      "id": "cc9c",
+      "time": "14 giờ",
+      "fullName": "Trần Đức Anh",
+      "phone": "0365323442",
+      "email": "anhne2762003@gmail.com",
+      "services": [
+        "Thuê ô tô 4 chỗ"
+      ],
+      "Gift": "khắn tắm",
+      "Date": [
+        "25/04/2024",
+        "30/04/2024"
+      ],
+      "Time": "12 giờ"
+    },
+    {
+      "id": "004d",
+      "time": "14 giờ",
+      "fullName": "Đỗ Phương Dung",
+      "phone": "0347882257",
+      "email": "ducanh2762003@gmail.com",
+      "services": [
+        "Thuê xe máy"
+      ],
+      "Gift": "Kem chống nắng",
+      "Date": [
+        "23/04/2024",
+        "25/04/2024"
+      ]
+    },
+    {
+      "id": "18ee",
+      "fullName": "Anh Đức",
+      "phone": "02182212",
+      "email": "example@g,mail.com",
+      "services": [
+        "Thuê ô tô 4 chỗ"
+      ],
+      "gift": "khăn tắm",
+      "dateRange": [
+        "09/05/2024",
+        "24/05/2024"
+      ],
+      "time": "08 giờ"
+    },
+    {
+      "id": "d253",
+      "time": "14 giờ",
+      "fullName": "Duc",
+      "services": [
+        "Thuê ô tô 4 chỗ"
+      ],
+      "Gift": "Mũ",
+      "Date": [
+        "24/04/2024",
+        "27/04/2024"
+      ],
+      "Time": "08 giờ"
+    }
+  ],
+  "rooms": [
+    {
+      "id": "3af4",
+      "name": "Phòng 1202",
+      "quantityBed": 3,
+      "quantityPeople": 6,
+      "description": "Phòng gia đình",
+      "utils": [
+        "Điều hòa",
+        "Nóng lạnh",
+        "Wifi"
+      ],
+      "typeRoom": false
+    },
+    {
+      "id": "d81a",
+      "name": "Phòng 510",
+      "quantityBed": 3,
+      "quantityPeople": 5,
+      "utils": [
+        "Nóng lạnh",
+        "Wifi",
+        "Điều hòa"
+      ],
+      "status": true,
+      "typeRoom": false
+    },
+    {
+      "id": "3e95",
+      "name": "Phòng 302",
+      "quantityBed": 2,
+      "quantityPeople": 4,
+      "utils": [
+        "Wifi",
+        "Nóng lạnh",
+        "Điều hòa"
+      ],
+      "status": true
+    },
+    {
+      "id": "62d9",
+      "name": "Hotel",
+      "quantityBed": 1,
+      "quantityPeople": 2,
+      "utils": [
+        "Nóng lạnh",
+        "Wifi",
+        "Điều hòa"
+      ],
+      "status": false,
+      "typeRoom": true
+    },
+    {
+      "id": "71a5",
+      "name": "Phòng 514",
+      "quantityBed": 2,
+      "quantityPeople": 4,
+      "description": "Phòng chuẩn 3 sao",
+      "utils": [
+        "Wifi",
+        "Nóng lạnh",
+        "Điều hòa"
+      ],
+      "status": true
+    }
+  ],
+  "chart": [
+    {
+      "date": "01-2023",
+      "quantity": 456
+    },
+    {
+      "date": "02-2023",
+      "quantity": 266
+    },
+    {
+      "date": "03-2023",
+      "quantity": 707
+    },
+    {
+      "date": "04-2023",
+      "quantity": 535
+    },
+    {
+      "date": "05-2023",
+      "quantity": 113
+    },
+    {
+      "date": "06-2023",
+      "quantity": 426
+    },
+    {
+      "date": "07-2023",
+      "quantity": 282
+    },
+    {
+      "date": "08-2023",
+      "quantity": 779
+    },
+    {
+      "date": "09-2023",
+      "quantity": 152
+    },
+    {
+      "date": "10-2023",
+      "quantity": 841
+    },
+    {
+      "date": "11-2023",
+      "quantity": 873
+    }
+  ],
+  "chartpie": [
+    {
+      "name": "<5",
+      "value": 19912018
+    },
+    {
+      "name": "5-9",
+      "value": 20501982
+    },
+    {
+      "name": "10-14",
+      "value": 20679786
+    },
+    {
+      "name": "15-19",
+      "value": 21354481
+    },
+    {
+      "name": "20-24",
+      "value": 22604232
+    },
+    {
+      "name": "25-29",
+      "value": 21698010
+    },
+    {
+      "name": "30-34",
+      "value": 21183639
+    },
+    {
+      "name": "35-39",
+      "value": 19855782
+    },
+    {
+      "name": "40-44",
+      "value": 20796128
+    },
+    {
+      "name": "45-49",
+      "value": 21370368
+    },
+    {
+      "name": "50-54",
+      "value": 22525490
+    },
+    {
+      "name": "55-59",
+      "value": 21001947
+    },
+    {
+      "name": "60-64",
+      "value": 18415681
+    },
+    {
+      "name": "65-69",
+      "value": 14547446
+    },
+    {
+      "name": "70-74",
+      "value": 10587721
+    },
+    {
+      "name": "75-79",
+      "value": 7730129
+    },
+    {
+      "name": "80-84",
+      "value": 5811429
+    },
+    {
+      "name": "≥85",
+      "value": 5938752
+    }
+  ]
+}
